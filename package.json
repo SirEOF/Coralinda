@@ -1,0 +1,25 @@
+{
+  "name": "Coralinda",
+  "version": "0.0.0",
+  "description": "Bot Telegram para o Cora Hacker Clube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arthurmoises/Coralinda.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "Arthur Moisés",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/arthurmoises/Coralinda/issues"
+  },
+  "dependencies": {
+    "request": "~2.81.0"
+  }
+}
