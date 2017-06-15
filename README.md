@@ -17,6 +17,6 @@ Ao criar seu Bot (/start), informe o nome e o username. Será gerado um token qu
 De imediato, é possível personalizar o bot com os comandos /setdescription (Descrição), /setabouttext (Mensagem inicial do Bot para quem acessar) e /setuserpic (Foto do Bot)
 
 Toda call ao bot deve usar a seguinte forma:
-https://api.telegram.org/bot<token>/METHOD_NAME
+https://api.telegram.org/bot\<token\>/METHOD_NAME
 
 Assim, foi a token foi colocada dentro de um arquivo .env, e referenciado sempre no código usando os dizeres "process.env.BOT_TOKEN".
