@@ -20,6 +20,7 @@
     "url": "https://github.com/arthurmoises/Coralinda/issues"
   },
   "dependencies": {
-    "request": "~2.81.0"
+    "request": "~2.81.0",
+    "dotenv": "~4.0.0"
   }
 }
